@@ -1,0 +1,123 @@
+/* {outline: 1px solid rgb(128, 9, 0);}*/
+body {
+    font-family: 'Times New Roman';
+    margin: 0 auto;
+    width: 960px;
+    height: auto;
+    border-width:2px;
+    border-style: solid;
+    border-color:black;
+    border-radius: 25px;
+    background-size: 100% 100%;
+}
+.contenedor{
+    background-size: 100% 100%;
+
+    border-radius: 25px;
+}
+
+.resumen_titulo{
+border-width:1px;
+border-style: solid;
+background-color:rgb(193, 251, 255);
+border-color:rgb(193, 251, 255);
+width: 13%;
+border-radius: 5px;
+}
+.resumen{
+    margin-left: -50px;
+    width: 960px;
+   
+}
+.imagen_perfil {
+    width: 15%;
+    height: 35%;
+    border-radius: 20px;
+    margin-right: 25px;
+    margin-left: 50px;
+}
+header,section{
+    
+    margin: 0 auto;
+    width: 960px;
+}
+header {
+    
+    display: flex;
+    margin-right: 50px;
+   
+}
+section {
+    
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+article{
+    
+    width: 100%;
+    
+    
+}
+.carta{
+
+    margin-right: 25%;
+    width: 85%;
+}
+.experiencia{
+    background-color:rgb(193, 251, 255);
+    width: 50%;
+    border-radius: 5px;
+    margin-left: 0%;
+}
+.estudios{
+    background-color:rgb(193, 251, 255);
+    width: 50%;
+    border-radius: 5px;
+    margin-right: 25% ;
+    
+
+}
+.tecnologias{
+    border-width:1px;
+    border-style: solid;
+    background-color:rgb(193, 251, 255);
+    border-color:rgb(193, 251, 255);
+    width: 30%;
+    border-radius: 5px;
+    margin-left: -45px;
+}
+.exp_completa{
+    margin-left: -5%;
+}
+.estudios_completa{
+    margin-left: -5%;
+}
+.tec1, .tec2, .tec3,.tec4 ,.tec5{
+    margin-left: -10%;
+   
+}
+.Idiomas{
+    border-width:1px;
+    border-style: solid;
+    background-color:rgb(193, 251, 255);
+    border-color:rgb(193, 251, 255);
+    width: 25%;
+    border-radius: 5px;
+    margin-left: -8%;
+}
+.idioma1,.idioma2{
+    margin-left: -8%;
+    
+}
+.datapersonal{
+    margin-left: 40%;
+    width: 100%;
+    margin-top: 5px;
+    
+}
+.dataentera{
+    margin-top: 25px;
+}
